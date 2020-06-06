@@ -52,12 +52,11 @@ These are our core values, as voted by the maintainers, in order of importance. 
 |:---------------|:------|-------------|
 | Administrative | [wg-administrative](../wg-administrative) | Administrates Governance |
 | Community      | [wg-community-safety](../wg-community-safety/) | Handles Code of Conduct issues |
-| Docs and Tools | [wg-docs-tools](../wg-docs-tools/) | Docs, tools, and Userland |
-| Outreach       | [wg-outreach](../wg-outreach/) | Grows the community |
-| Releases       | [wg-releases](../wg-releases/) | Coordinates new releases |
-| Security       | [wg-security](../wg-security/) | Security review & response |
+| Ecosystem      | [wg-ecosystem](../wg-ecosystem/) | Makes Electron app development easier |
+| Outreach       | [wg-outreach](../wg-outreach/)   | Grows the community |
+| Releases       | [wg-releases](../wg-releases/)   | Coordinates new releases |
+| Security       | [wg-security](../wg-security/)   | Security review & response |
 | Upgrades       | [wg-upgrades](../wg-upgrades/) | Ongoing Node & Chromium upgrades |
-| Website        | [wg-website](../wg-website/) | Maintains [electronjs.org](https://www.electronjs.org) |
 
 ### Responsibilities
 
@@ -102,6 +101,17 @@ Chairs have responsibilities to their Working Group: they represent the collecti
 Chairs have responsibilities to their parent Working Group: they ensure that their Working Group is carrying out its mission.
 
 Chairs have responsibility to all participants in transparently reporting the group's activity.
+
+Chairs also have the following regular duties within their Working Groups:
+* Collect agenda items prior to each meeting to ensure a smooth and focused Working Group meeting.
+* Ensure that the Working Group is notified of the agenda for the meeting in a timely manner advance of the meeting.
+* Attend and lead each Working Group meeting.
+    * If the Chair is unable to attend a given meeting, they should delegate a pre-appointed person to lead the meeting in their stead.
+* Ensure meeting notes are uploaded to the `governance` repo in the Working Group's respective sub-folder following each meeting.
+* Check into persistent issues present on a given Working Group's repositories of responsibility (ex. bot failures)
+* Ensure that the WG roster list is an accurate reflection of current member activity.
+
+In addition to these reponsibilities, a Chair may have additional responsibilities specific to their Working Group.
 
 ### Reaching Agreement
 
